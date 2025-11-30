@@ -36,6 +36,7 @@ dotnet run --project experiments/exp1
 │   └── exp2/
 ├── scratch/            # Standalone .cs / .fs / .vb files
 ├── utils/              # Reusable helpers
+├── LICNESE
 └── README.md
 ```
 
